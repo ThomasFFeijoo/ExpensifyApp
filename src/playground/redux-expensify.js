@@ -149,6 +149,7 @@ const getVisibleExpenses = (expenses, { text, sortBy, startDate, endDate }) => {
     });
 };
 
+
 // Store Creation
 
 const store = createStore(
